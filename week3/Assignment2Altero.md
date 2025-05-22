@@ -2,13 +2,21 @@
 
 ### Activity 1: Configure Visual Studio (VSC):
 
+Visual Studio Code:
+
 ![Visual Studio Code](./files/activity1_vsc.jpg)
+
+Visual Studio Code Extensions:
 
 ![Visual Studio Code Extensions](./files/activity1_ext.jpg)
 
 ### ACTIVITY 2: Clone the class repo and add to your VSC Workspace:
 
+Two Repos:
+
 ![Two repos](./files/activity2_2repos.jpg)
+
+Two repos Source Control:
 
 ![Two repos Source Control](./files/activity2_2repos_sc.jpg)
 
@@ -86,6 +94,7 @@ THINGS TO INCLUDE IN A GOOD README FILE:
     - Guidelines for others who want to submit code or issues.
 
 
+Commit Messages:
 
 ![Commit Messages](./files/activity3_cm.jpg)
 
