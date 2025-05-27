@@ -179,12 +179,10 @@ a. Gets latest changes from the remote but does NOT apply them.
 git pull 
 ```
 
- a. Gets and immediately merges changes into your current branch.
-
- b. This fetches and merges:
-
-    i. The remote commits are now integrated into your working branch. 
-    ii. You may see automatic merge messages or conflicts depending on changes.
+a. Gets and immediately merges changes into your current branch.
+b. This fetches and merges:
+i. The remote commits are now integrated into your working branch. 
+ii. You may see automatic merge messages or conflicts depending on changes.
 
 
 14. Make some changes in your repo and using the command line to sync those changes with your remote repo. Show the results.
