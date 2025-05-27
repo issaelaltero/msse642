@@ -180,8 +180,10 @@ git pull
 ```
 
  a. Gets and immediately merges changes into your current branch.
+
  b. This fetches and merges:
-    i. The remote commits are now integrated into your working branch.
+
+    i. The remote commits are now integrated into your working branch. 
     ii. You may see automatic merge messages or conflicts depending on changes.
 
 
