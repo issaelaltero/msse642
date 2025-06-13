@@ -6,4 +6,4 @@
 
 [Assignment 3](./week4/Assignment3Altero.md)
 
-[Assignment 4](./week4/Assignment4Altero.md)
+[Assignment 4](./week6/Assignment4Altero.md)
